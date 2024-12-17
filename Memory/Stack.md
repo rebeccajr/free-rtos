@@ -1,0 +1,1 @@
+ARM Cortex Mx stack is full descending, i.e. stack pointer is reduced for a push.

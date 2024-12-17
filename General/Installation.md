@@ -1,0 +1,1 @@
+This group of pages describes the installation process for the STM 32 Cube IDE and FreeRTOS kernel.
